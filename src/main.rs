@@ -7,7 +7,7 @@ use std::sync::Mutex;
 use flate2::bufread::GzDecoder;
 
 fn main() {
-    let matches = App::new("Just ANother Kmer counter")
+    let matches = App::new("Ultra-fast kmer counter")
     .arg(Arg::with_name("input_file")
     .help("Input FASTA or FASTQ file")
     .required(true)
