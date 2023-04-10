@@ -1,8 +1,8 @@
 # Ultra-fast kmer counter
 <p align="center">
-  <img src="./img/ufkc.png" alt="UFKC logo" width="200" height="200">
+  <img src="./img/ufkc.png" alt="UFKC logo" width="400" height="400">
 </p>
-JANK is a high-performance kmer counter developed in Rust, designed to efficiently process both FASTA and FASTQ files using parallel processing.
+UFKC is a high-performance kmer counter developed in Rust, designed to efficiently process both FASTA and FASTQ files using parallel processing.
 
 ## Features
 - Compatible with FASTA and FASTQ input files
